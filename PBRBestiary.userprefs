@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{9ABD3FD2-3C04-4214-913B-5BB4EE60223D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PBRBestiary Status">
     <Files>
-      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="iOS/Main.cs" Line="4" Column="1" />
       <File FileName="PBRBestiary/MyClass.cs" Line="1" Column="1" />
       <File FileName="iOS/ViewController.cs" Line="1" Column="1" />
-      <File FileName="iOS/LaunchScreen.storyboard" Line="1" Column="1" />
-      <File FileName="iOS/Main.storyboard" Line="1" Column="1" />
+      <File FileName="iOS/LaunchScreen.storyboard" />
+      <File FileName="iOS/Main.storyboard" />
       <File FileName="PBRBestiary Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
