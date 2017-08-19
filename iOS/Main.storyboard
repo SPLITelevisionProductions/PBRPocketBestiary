@@ -84,6 +84,10 @@
                     <connections>
                         <segue destination="409" kind="relationship" relationship="rootViewController" id="419"/>
                     </connections>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="1253">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                    </toolbar>
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="421" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -92,5 +96,6 @@
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedScreenMetrics key="destination" type="retina47"/>
+        <simulatedOrientationMetrics key="orientation"/>
     </simulatedMetricsContainer>
 </document>
