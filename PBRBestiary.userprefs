@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9ABD3FD2-3C04-4214-913B-5BB4EE60223D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PBRBestiary Status">
+    <Files>
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="PBRBestiary/MyClass.cs" Line="1" Column="1" />
+      <File FileName="iOS/ViewController.cs" Line="1" Column="1" />
+      <File FileName="iOS/LaunchScreen.storyboard" Line="1" Column="1" />
+      <File FileName="iOS/Main.storyboard" Line="1" Column="1" />
+      <File FileName="PBRBestiary Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PBRBestiary.Droid AndroidDesignerPreferredDevice="Nexus 7" PreferredExecutionTarget="Android.Android_ARMv7a" />
+  <MonoDevelop.Ide.ItemProperties.PBRBestiary.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F36C341F-35E9-47C8-8E58-A24E8D816128" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/logie/Documents/Projects/PBRBestiary/iOS/bin/iPhoneSimulator/Debug/PBRBestiary.iOS.exe
+/Users/logie/Documents/Projects/PBRBestiary/iOS/bin/iPhoneSimulator/Debug/PBRBestiary.iOS.pdb
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/PBRBestiary.iOS.csprojResolveAssemblyReference.cache
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/PBRBestiary.iOS.csproj.CoreCompileInputs.cache
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/PBRBestiary.iOS.exe
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/PBRBestiary.iOS.pdb
+/Users/logie/Documents/Projects/PBRBestiary/iOS/bin/iPhoneSimulator/Debug/ZXing.Net.Mobile.Core.dll
+/Users/logie/Documents/Projects/PBRBestiary/iOS/bin/iPhoneSimulator/Debug/zxing.portable.dll
+/Users/logie/Documents/Projects/PBRBestiary/iOS/bin/iPhoneSimulator/Debug/ZXingNetMobile.dll
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/logie/Documents/Projects/PBRBestiary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
